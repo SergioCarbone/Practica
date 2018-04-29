@@ -1,0 +1,7 @@
+F:\laboratorio2\PROGRAMACION 2\Sergio.Carbone.2C\Sergio.Carbone.2C\obj\Debug\Sergio.Carbone.2C.csprojResolveAssemblyReference.cache
+F:\laboratorio2\PROGRAMACION 2\Sergio.Carbone.2C\Sergio.Carbone.2C\obj\Debug\Sergio.Carbone.2C.csproj.CoreCompileInputs.cache
+F:\laboratorio2\PROGRAMACION 2\Sergio.Carbone.2C\Sergio.Carbone.2C\bin\Debug\Sergio.Carbone.2C.exe.config
+F:\laboratorio2\PROGRAMACION 2\Sergio.Carbone.2C\Sergio.Carbone.2C\bin\Debug\Sergio.Carbone.2C.exe
+F:\laboratorio2\PROGRAMACION 2\Sergio.Carbone.2C\Sergio.Carbone.2C\bin\Debug\Sergio.Carbone.2C.pdb
+F:\laboratorio2\PROGRAMACION 2\Sergio.Carbone.2C\Sergio.Carbone.2C\obj\Debug\Sergio.Carbone.2C.exe
+F:\laboratorio2\PROGRAMACION 2\Sergio.Carbone.2C\Sergio.Carbone.2C\obj\Debug\Sergio.Carbone.2C.pdb
